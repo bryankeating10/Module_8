@@ -1,4 +1,5 @@
-# **:wrench: Project Setup**
+# **:wrench: Repository Edits**
+Bryan Keating
 
 ## App
 Added ________ function:
