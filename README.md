@@ -1,5 +1,5 @@
 # **:wrench: Repository Edits**
-Bryan Keating
+*Bryan Keating*
 
 ## App
 Added power function:
