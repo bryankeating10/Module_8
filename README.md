@@ -1,6 +1,9 @@
 # **:wrench: Repository Edits**
 *Bryan Keating*
 
+## Dockerhub URL
+https://hub.docker.com/bryankeating10/Module8
+
 ## App
 Added power function:
 ```
